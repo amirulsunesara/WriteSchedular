@@ -1,0 +1,12 @@
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.dll.config
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.deps.json
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.runtimeconfig.json
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.runtimeconfig.dev.json
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.dll
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\bin\Debug\netcoreapp2.2\WriteSchedular.pdb
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.csprojAssemblyReference.cache
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.csproj.CoreCompileInputs.cache
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.AssemblyInfoInputs.cache
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.AssemblyInfo.cs
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.dll
+C:\Users\amirul\source\repos\WriteSchedular\WriteSchedular\obj\Debug\netcoreapp2.2\WriteSchedular.pdb
